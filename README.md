@@ -1,10 +1,9 @@
-# snake
-primer comit 
-🐍 Snake Game
+ 
+# 🐍 Snake Game
 
 Juego clásico de la serpiente desarrollado en Python con pygame-ce, con animaciones y sistema de estados completo.
 
-Características
+# Características
 🎮 Máquina de estados completa: pantalla de inicio, juego, victoria y derrota
 🖼️ Sprites direccionales para cabeza, cuerpo y cola, con rotación y flip según la dirección de movimiento
 🔄 Segmentos curvos en los giros del cuerpo de la serpiente
@@ -14,12 +13,11 @@ Características
 😮 Animación de cabeza con boca abierta al comer
 🖱️ Botones interactivos manejados con mouse en las pantallas de estado
 
-Tecnologías
+# Tecnologías
 Python 3.14
 pygame-ce
 
-Cómo ejecutarlo
-
+#Cómo ejecutarlo
 pip install pygame-ce
 python snake2.py
 
@@ -29,8 +27,4 @@ python snake2.py
 <img width="1188" height="622" alt="{9734B9E1-B112-4B51-B762-D9E982F75843}" src="https://github.com/user-attachments/assets/cb2c096b-e826-4714-a17c-73ea377e1331" />
 
 
-
-
-# Agregar acá una o dos capturas de pantalla del juego corriendo)
-
-Autor: Maximiliano Funes — LinkedIn
+Autor: Maximiliano Funes
